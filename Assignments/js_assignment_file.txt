@@ -1,0 +1,1 @@
+This is js assignment file inside assignment folder
